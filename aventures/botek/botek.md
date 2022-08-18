@@ -6,12 +6,13 @@ Par [Highland Paranormal Society](https://www.dungeonresearch.com/), traduit et 
 
 *Un terrain d'exploration pour les jeux de rôle fantasy sur table. Suggéré pour un groupe de 3-4 aventuriers de niveau 1.*
 
+![Guerrier perdu dans la forêt](images/_forestman.jpg)
+
 ## Au plus profond de la Vieille Forêt,
 
 là où les arbres sont grands et épais, là où le soleil perce rarement la canopée, se trouve un monticule de terre. Aucun oiseau ne chante dans cette partie de la forêt, aucun vent ne souffle. Les feuilles des arbres semblent plus grandes, la canopée plus épaisse. Même à la mi-journée, il fait presque trop sombre pour y voir.
 
-![](.\images\_barrowmap.png)
-
+![](images/_barrowmap.png)
 
 
 ## 1. Le cairn effondré
@@ -28,20 +29,28 @@ Un étroit tunnel en briques de pierre est bordé de petites alcôves, deux de c
 Le squelette d'un roi elfe repose sur une dalle de pierre. Il est vêtu d'une armure en bois blanc *(moyenne)* et d'une couronne de branches blanches torsadées d'où poussent des feuilles vertes. Ses bras croisés tiennent deux flèches en fer noir. Un grand sablier est suspendu à de lourdes chaînes sur un système de poulies. Une manivelle en fer le fait tourner. Lorsque le sable commence à tomber, le fantôme du roi des elfes sort du squelette, armé d'une grande épée en bois blanc. Il n'apprécie guère les intrus dans sa tombe, où il attend la résurrection lorsque l'univers renaîtra. Il ne sait rien de l'araignée, des vers ou de tout autre intrus. Le sablier ne met que dix minutes à s'épuiser. Le fantôme disparaît lorsque le sable cesse de tomber ou si le sablier est cassé. Si le fantôme est vaincu au combat, il disparaît en laissant son épée derrière lui. 
 **Entrées:** *Une ouverture dans le mur nord mène à la salle 2. Une porte verrouillée sur le mur est mène à la salle 6. Un tunnel dans le mur sud mène à la salle 4.*
 
+![Le fantôme du roi des elfes](images/_elfking.png)
+
 ## 4. Gobelin dans un tonneau
 
 On peut entendre des sanglots étouffés et des éternuements intermittents provenant d'un tonneau pourri. Wogwurt, un petit gobelin, se cache à l'intérieur, portant un bol en bois en guise de casque, une fausse moustache faite de feuilles, et tenant une épée jouet faite de deux bâtons attachés ensemble. Elle s'est perdue dans la forêt et s'est aventurée dans le monticule à travers le Grand Chêne. *(Salle 10)* et ne se souvient pas de la sortie. Elle est terrifiée et légèrement allergique à la poussière de la tombe. Sa famille est bergère de crapauds dans une tourbière voisine et récompensera ses sauveteurs par un destrier crapaud. 
 **Entrées:** *Le tunnel dans le mur nord mène à la salle 3. La porte en bois sur le mur est mène à la salle 5.*
+
+![Des jambes qui sortent d\'un tonneau](images/_barrel.png)
 
 ## 5. La salle de garde
 
 Trois squelettes vêtus d'armures rouillées plus ou moins complètes lancent des dés à une petite table. Ils misent des pièces d'armure et même leurs os s'ils ont perdu toute leur armure. Un ancien enchantement les a liés ici pour protéger la tombe mais la magie s'est érodée avec le temps et ils s'ennuient terriblement. Ils demandent à demi-mot aux intrus de partir et mettent fin à toute conversation avec *“Ok, c'est l'heure de partir.”* ou *“Il se fait tard”* en faisant un geste vers l'entrée. S'ils sont détruits, ils se réassembleront dans une semaine. Un quatrième garde squelette est coincé dans la toile d'araignée de la salle 7. Il a peur de l'araignée. Si leur compagnon est secouru ou si leur ennui est dissipé, ils révéleront qu'un coffre à clé se trouve au fond du puits de la salle 9, mais que l'eau est un acide magique qui dissout tous les objets qu'il touche, mais ne blesse ni la chair ni les os. 
 **Entrées:** *Le tunnel dans le coin nord-ouest mène à la salle 6. Le tunnel de l'angle nord-est mène aux salles 6 et 7. Le tunnel de l'angle sud-est mène à la salle 8.*
 
+![Crâne avec capuchon et cigarette](images/_skull.png)
+
 ## 6. Stockage des organes royaux
 
 1d6+1 vers ont creusé le sol et se nourrissent d'organes momifiés. Des urnes brisées et des organes desséchés jonchent le sol. Il reste deux urnes intactes, l'une contient le cœur du Roi des Elfes et l'autre son cerveau, suspendu dans une gelée magique qui l'empêche de se décomposer. 
 **Entrées:** *La porte verrouillée dans le mur ouest mène à la salle 3. Le faux mur dans l'angle nord-est s'ouvre sur la salle 9. Le tunnel dans le mur est mène aux salles 5 et 7. Le tunnel dans le mur sud mène à la salle 5.*
+
+![vers](images/_worms.png)
 
 ## 7. La demeure de l'araignée
 
@@ -53,15 +62,20 @@ Des toiles d'araignées recouvrent les murs. Les pièges des toiles collantes do
 Une tapisserie animée recouvre le mur sud. Les images bougent comme si elles étaient vivantes. Elle dépeint les légendaires Elflands : des elfes dansant en cercle, des oiseaux volant, des arbres se balançant dans le vent, un guerrier en armure combattant un dragon rouge sang. La tapisserie vaut 500 po pour la plupart des marchands d'art mais pourrait valoir plusieurs fois cette somme pour un collectionneur particulier. Deux personnes pourraient la porter si elle était enroulée. Chaque PJ voit ses PV réduits à 0 pendant qu'il porte la tapisserie. 
 **Entrées :** *Le tunnel dans le mur ouest mène à la salle 5. Le tunnel dans le mur nord mène à la salle 7. Le tunnel dans le coin nord-est mène à la salle 9.*
 
+![Guerrier en armure combattant un dragon](images/_tapestry.png)
+
 ## 9. Puits du trésor
 
 Un puits au milieu de la pièce est rempli d'acide magique. Il n'endommage pas la chair et les os mais dissout tous les objets non vivants. Il y a un coffre contenant 500 po de pierres précieuses au fond qui est immunisé contre l'acide. 1d6 araignées construisent une toile à travers le tunnel du mur Est. L'air frais s'écoule doucement de ce tunnel. 
 **Entrées:** *Le faux mur mène à la salle 6. Un tunnel couvert de toile mène à la salle 7. Un tunnel dans le mur est mène à la salle 10. Le tunnel dans le coin sud-est mène à la salle 8.*
 
+![coffre orné](images/_chest.png)
+
 ## 10. Le Grand Chêne.
 
 Le tunnel de la salle 9 se termine à l'intérieur de ce grand chêne. Un trou dans le chêne donne sur la forêt. Le trou est juste assez grand pour qu'une personne puisse s'y glisser. Les paquets et les gros objets doivent être passés séparément. 
-**Entrées** : *Le tunnel va vers l'ouest jusqu'à la salle 9. Un trou à l'est donne sur la forêt.*
+**Entrées** : *Le tunnel va vers l'ouest jusqu'à la salle 9. Un trou à l'est donne sur la forêt.*  
+![Un grand chêne](images/_oak.png)
 
 # Trésors
 
