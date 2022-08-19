@@ -32,7 +32,7 @@ L'arbitre pourrait utiliser ces accroches pour connecter cette aventure dans un 
 L'aventure peut se dérouler dans n'importe quelle région froide où l'on peut s'attendre à rencontrer des fées glacées et des cercles d'anciennes pierres érigées.
 L'arbitre peut aussi intégrer le contexte de l'aventure dans un autre cadre, en remplaçant le Prince du Froid par un autre roi des fées maléfiques.
 
-## Historique pour l'arbitre
+## Contexte pour l'arbitre
 
 ### Le Prince du Froid
 
@@ -101,33 +101,92 @@ Le pouvoir de l'anneau qui lie les âmes n'a pas été contrecarré par la mort.
 - **Le mariage** : Sans se laisser décourager par la mort et de nombreux siècles, la princesse s'obstine à organiser un mariage perpétuel en attendant l'arrivée de Sir Chyde. Quelques amis et alliés courageux ont voyagé en secret jusqu'à sa tour isolée  pour se joindre aux festivités tant attendues.
 - **Les pierres de Whything** : sont maintenant fréquentées par les Drunes, le culte des sorciers qui convoitent les dolmens et les alignements de sites de Dolmenwood.
 
+## Accroches
 
+### Rêves de la Dame
 
-Accroches
+#### Ce que vivent les PJ
+- Un PJ vaillant ou courageux reçoit la visite, dans un rêve récurrent, d'une belle dame elfe, vêtue de blanc.
+- Dans les rêves, le PJ tombe amoureux de la Dame, et se réveille avec un profond désir d'être avec elle.
+- Quelques semaines après ce rêve, le PJ fait un second rêve : il s'aventure dans un tumulus, ouvre un coffre, prend une bague au doigt d'un squelette et apporte la bague à la Dame.
+- A la fin de ce rêve, la Dame dit au PJ que la tombe est un lieu réel, et qu'une porte magique vers son royaume s'y trouve, au niveau inférieur. Elle promet (faussement) son cœur au PJ, s'il peut récupérer cet anneau qui lui a été volé dans les temps anciens et le lui apporter.
+- Elle révèle l'emplacement de la tombe et dit que celui qui porte l'anneau peut franchir la porte magique du niveau inférieur qui mène à son royaume dans la Féerie.
 
-Rêves de la Dame
+#### Ce qui se passe réellement
+- La princesse Neige-du-crépuscule a découvert un moyen de contacter le monde des mortels via le rêve.
+- Son amour avoué n'est qu'une ruse : elle souhaite simplement que le PJ éperdu récupère l'anneau de Sir Chyde pour elle.
 
-Ce que vivent les PC
-▶ Un PJ vaillant ou courageux reçoit la visite, dans un rêve récurrent, d'une belle dame elfe, vêtue de blanc.
-▶ Dans les rêves, le PJ tombe amoureux de la Dame, et se réveille avec un profond désir d'être avec elle.
-▶ Quelques semaines après ce rêve, le PJ fait un second rêve : il s'aventure dans un tumulus, ouvre un coffre, prend une bague au doigt d'un squelette et apporte la bague à la Dame.
-▶ A la fin de ce rêve, la Dame dit au PJ que la tombe est un lieu réel, et qu'une porte magique vers son royaume s'y trouve, au niveau inférieur. Elle promet (faussement) son cœur au PJ, s'il peut récupérer cet anneau qui lui a été volé dans les temps anciens et le lui apporter.
-▶ Elle révèle l'emplacement de la tombe et dit que celui qui porte l'anneau peut franchir la porte magique du niveau inférieur qui mène à son royaume dans la Féerie.
+### Héritage
+- Un vieux membre de la famille, perdu de vue depuis longtemps, d'un PJ meurt, léguant une petite fortune au PJ (selon les souhaits de l'arbitre).
+- Parmi les papiers et bizarreries que le PJ reçoit, il y a une vieille connaissance accompagnée d'un arbre généalogique prouvant que le PJ est un lointain descendant d'un certain Brigford le Sage, frère de Sir Chyde. (L'arbitre arbitre peut décider de l'exactitude de ces informations généalogiques).
+- La connaissance montre l'emplacement de la tombe où Brigford est enterré aux côtés de son frère, notant que la légendaire épée et l'anneau de Sir Chyde sont (légalement parlant) la propriété de l'héritier PJ.
+- Les documents affirment que l'anneau a le pouvoir d'ouvrir une porte vers la Féerie.
 
-Ce qui se passe réellement
-▶ La princesse Snowfall-at-Dusk a découvert un moyen de contacter le monde des mortels via le rêve.
-▶ Son amour avoué n'est qu'une ruse : elle souhaite simplement que le PJ éperdu récupère l'anneau de Sir Chyde pour elle.
+### Pilleurs de tombes
+- Un sorcier engage les PC pour qu'ils se rendent à Dolmenwood vers un ancien tumulus, en leur donnant une carte de son emplacement.
+- Leur mission est d'entrer dans la tombe et de récupérer l'anneau de la main du squelette qui repose sous terre : une bague en bronze serti d'une pierre de lune, avec des motifs en forme de branches tressées.
+- En rendant cet anneau au magicien, le groupe sera récompensé par une somme de 5 000po (ou ce que l'arbitre souhaite).
 
-Héritage
-▶ Un vieux membre de la famille, perdu de vue depuis longtemps, d'un PJ meurt, léguant une petite fortune au PJ (selon les souhaits de l'arbitre).
-▶ Parmi les papiers et bizarreries que le PJ reçoit, il y a une vieille connaissance accompagnée d'un arbre généalogique prouvant que le PJ est un lointain descendant d'un certain Brigford le Sage, frère de Sir Chyde. (L'arbitre arbitre peut décider de l'exactitude de ces informations généalogiques).
-▶ La connaissance montre l'emplacement de la tombe où Brigford est enterré aux côtés de son frère, notant que la légendaire épée et l'anneau de Sir Chyde sont (légalement parlant) la propriété de l'héritier PJ.
-▶ Les documents affirment que l'anneau a le pouvoir d'ouvrir une porte vers la Féerie.
+#### Complication
+- L'anneau à récupérer porte un enchantement féerique : le fantôme de Sir Chyde y est lié et hantera quiconque le volera (voir Epilogue, p23).
 
-Pilleurs de tombes
-▶ Un sorcier engage les PC pour qu'ils se rendent à Dolmenwood vers un ancien tumulus, en leur donnant une carte de son emplacement.
-▶ Leur mission est d'entrer dans la tombe et de récupérer l'anneau de la main du squelette qui repose sous terre : une bague en bronze serti d'une pierre de lune, avec des motifs en forme de branches tressées.
-▶ En rendant cet anneau au magicien, le groupe sera récompensé par une somme de 5 000po (ou ce que l'arbitre souhaite).
+## Contexte pour les joueurs
 
-La Complication
-▶ L'anneau à récupérer porte un enchantement féerique : le fantôme de Sir Chyde y est lié et hantera quiconque le volera (voir Epilogue, p23).
+### Folklore populaire
+Tout ce qui s'est passé autrefois n'est pas forcément connu de tous. 
+L'histoire suivante est connue des gens du peuple de Dolmenwood, et pourrait être entendu par les PJ.
+
+#### Le prince du froid
+Le seigneur des fées qui régnait sur tout Dolmenwood, avant l'arrivée des mortels.
+- Hiver éternel : Sous son règne, la forêt était recouverte d'un éternel manteau de givre et de neige.
+- La guerre : Il y a 900 ans, les mortels ont fait la guerre contre les armées féeriques du Prince du Froid.  
+Le Prince du Froid luttant pour le contrôle de la forêt de Dolmen.
+
+#### Sir Chyde
+Au milieu de la guerre, le héros légendaire est tombé amoureux d'une femme appelée la Dame du Bois.  
+- La Dame du Bois : Une jeune sorcière d'origine mystérieuse.
+- Première rencontre : Ils se sont rencontrés dans les profondeurs de Dolmenwood.
+- Les fiançailles : Les deux se sont promis leurs cœur l'un à l'autre, en échangeant des bagues de fiançailles.
+
+#### Le prince du froid vaincu
+L'armée des mortels a été victorieuse, et le Prince du Froid fut exilé dans son royaume des fées.  
+- Une menace toujours présente : Chaque année, en hiver, la magie destinée à bannir le Prince du Froid
+s'affaiblit et les vents glacials murmurent son désir de reconquérir son royaume dans le monde des mortels.
+
+#### La mort de Sir Chyde
+Le chevalier a été tué dans la bataille finale entre
+mortels et des fées sur les collines du Haut Plateau.  
+- Son dernier souhait : Sir Chyde a insisté pour
+être enterré dans une tombe au fin fond de la
+forêt.
+- Le destin de la Dame : Elle n'a jamais été
+revue. Certains disent qu'elle est morte dans les
+profondeurs de la forêt, dans la clairière où
+elle et son amour se sont rencontrés pour la première fois.
+
+### Enquête approfondie
+Si les PJ consacrent du temps et de l'argent à employer des
+sages, chercher des tomes obscurs, ou consulter des oracles, 
+ils peuvent être en mesure de divulguer
+une partie de la véritable histoire du chevalier et de la
+la princesse. Chacun des faits suivants
+nécessite un effort de recherche important.  
+Si les PJ consacrent du temps et de l'argent à employer des
+sages, chercher des tomes obscurs, ou consulter des oracles
+des oracles, ils peuvent être en mesure de divulguer
+une partie de la véritable histoire du chevalier et de la
+la princesse. Chacun des faits suivants
+nécessite un effort de recherche important.
+- **L'identité de la Dame du Bois :**
+La fiancée de Sir Chyde était en fait une princesse des fées. Leur amour était interdit.
+- **La bague** : L'anneau que Sir Chyde
+portait était un objet magique du Royaume des fées. Il
+liait son âme à celle de la Dame.
+- **Les biens funéraires** : Sir Chyde a été enterré
+avec les objets suivants : l'épée avec laquelle il a tué le géant féerique
+Écrase-les-os, sa bague de fiançailles en pierre de lune et le portrait de la Dame qu'il
+avait commandé.
+- **Le sceau de la tombe** : La tombe de Sir Chyde
+a été un lieu de pèlerinage pendant de nombreuses
+années, jusqu'à ce qu'une série de phénomènes surnaturels conduisent
+l'Eglise à placer des protections magiques et à le sceller.
