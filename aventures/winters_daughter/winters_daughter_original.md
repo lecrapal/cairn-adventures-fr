@@ -1,5 +1,9 @@
 # La fille de l'Hiver
 
+
+
+![Introduction](img/img01.jpg)
+
 ## À propos de cette aventure
 
 *La fille de l'Hiver* est une courte aventure qui se déroule dans le **Dolmenwood**, le scénario de campagne campagne publié par **Necrotic Gnome**. L'aventure tourne autour de l'amour interdit entre un chevalier mortel et une princesse fée, dans des temps anciens où les deux races se faisaient la guerre. La tombe du chevalier est scellée depuis des siècles.
@@ -70,6 +74,9 @@ Les armées mortelles furent victorieuses, et le Prince du Froid fut exilé dans
 
 * **Une menace toujours présente** : Le Prince du Froid n'a jamais inquiété Dolmenwood depuis, mais la menace de son retour dans le monde des mortels domine toujours les craintes de la population.
 
+
+![Dame du Bois](img/img02.jpg)
+
 ### La mort de Sir Chyde
 
 Le chevalier fut tué lors de la bataille finale entre les mortels et les fées sur les collines du Haut Plateau, peu de temps après que son amour ait été emprisonné.
@@ -79,6 +86,9 @@ Le chevalier fut tué lors de la bataille finale entre les mortels et les fées 
 - **Chapelle de St Sedge** : Une chapelle dédiée à son saint patron, Sedge, a également été intégrée au tombeau. (Sedge est le saint patron des croisés et des fabricants de couteaux).
 - **Un lieu saint** : Comme c'était la coutume à l'époque, la tombe du grand héros a été entretenu comme un lieu de pèlerinage.
 - **Un gardien** : Un prêtre vivait dans la tombe, à côté de la chapelle. 
+
+
+![Sir Chyde](img/img03.jpg)
 
 ### Les effets de l'anneau
 
@@ -100,6 +110,7 @@ Le pouvoir de l'anneau qui lie les âmes n'a pas été contrecarré par la mort.
 - **La princesse** : Reste emprisonnée, oubliée par son père, attendant avec une patience de fée de trouver un moyen d'être réunie avec Sir Chyde.
 - **Le mariage** : Sans se laisser décourager par la mort et de nombreux siècles, la princesse s'obstine à organiser un mariage perpétuel en attendant l'arrivée de Sir Chyde. Quelques amis et alliés courageux ont voyagé en secret jusqu'à sa tour isolée  pour se joindre aux festivités tant attendues.
 - **Les pierres de Whything** : sont maintenant fréquentées par les Drunes, le culte des sorciers qui convoitent les dolmens et les alignements de sites de Dolmenwood.
+
 
 ## Accroches
 
@@ -165,18 +176,10 @@ profondeurs de la forêt, dans la clairière où
 elle et son amour se sont rencontrés pour la première fois.
 
 ### Enquête approfondie
-Si les PJ consacrent du temps et de l'argent à employer des
-sages, chercher des tomes obscurs, ou consulter des oracles, 
-ils peuvent être en mesure de divulguer
-une partie de la véritable histoire du chevalier et de la
-la princesse. Chacun des faits suivants
+Si les PJ consacrent du temps et de l'argent à employer des sages, chercher des tomes obscurs, ou consulter des oracles,  ils peuvent être en mesure de divulguer une partie de la véritable histoire du chevalier et de la la princesse. Chacun des faits suivants
 nécessite un effort de recherche important.  
-Si les PJ consacrent du temps et de l'argent à employer des
-sages, chercher des tomes obscurs, ou consulter des oracles
-des oracles, ils peuvent être en mesure de divulguer
-une partie de la véritable histoire du chevalier et de la
-la princesse. Chacun des faits suivants
-nécessite un effort de recherche important.
+Si les PJ consacrent du temps et de l'argent à employer des sages, chercher des tomes obscurs, ou consulter des oracles des oracles, ils peuvent être en mesure de divulguer une partie de la véritable histoire du chevalier et de la princesse. Chacun des faits suivants nécessite un effort de recherche important.
+
 - **L'identité de la Dame du Bois :**
 La fiancée de Sir Chyde était en fait une princesse des fées. Leur amour était interdit.
 - **La bague** : L'anneau que Sir Chyde
@@ -190,3 +193,97 @@ avait commandé.
 a été un lieu de pèlerinage pendant de nombreuses
 années, jusqu'à ce qu'une série de phénomènes surnaturels conduisent
 l'Eglise à placer des protections magiques et à le sceller.
+
+## Lore de Dolmenwood
+
+### Les deux royaumes
+La forêt de Dolmenwood se trouve dans une région du monde des mortels où se trouve le royaume immortel des Fées - demeure des elfes,
+d'elfes, de lutins, de pooks, de gobelins et de toutes sortes de créatures sinistres et amusantes - à portée de main.  
+Ce monde parallèle, parfois appelé Elfland (bien qu'il s'agisse d'une appellation erronée, les elfes n'étant pas les seuls habitants de la Féerie), est sans fin et intemporel, au-delà de l'entendement des mortels. Il est adjacent au monde des mortels, si proche que l'on peut entendre les rires de ses habitants dériver à travers les clairières de Dolmenwood, et si éloigné qu'il est intangible pour ceux qui sont nés mortels.  
+Ce n'est qu'à quelques endroits ou périodes particulières que les deux royaumes se chevauchent, permettant le transit dans les deux sens. (Un tel endroit peut être être rencontré dans cette aventure).
+
+### La Féerie
+
+Ces races dont les membres sont originaires du le royaume éternel de la Féerie, sont collectivement connues sous le nom de fées. La grande majorité des fées ne franchissent jamais la frontière subtile qui sépare leur royaume du monde des mortels (et ne rêveraient même pas de le faire). Cependant, certains individus pénètrent dans le monde des mortels, occasionnellement, et certains prennent même goût à ce lieu et y restent pendant de longues périodes. Les fées que l'on peut rencontrer à Dolmenwood sont généralement celles qui ont des penchants inhabituels (romantiques, obsessionnelles ou mégalomanes) ou celles qui ont été exclues de leur royaume natal.
+
+#### Fer pur
+
+Les fées sont particulièrement vulnérables aux armes forgées en fer pur, elles subissent le double des dégâts en cas de coup réussi.
+
+#### Le mal de l'argent
+
+Les fées sont répugnées et malades au contact de l'argent des mortels. (L'argent délicat et pâle de leur royaume natal n'a pas cet effet).
+
+### Langues
+
+Les langues suivantes sont utilisées dans Dolmenwood :
+- **Le woldish** : L'équivalent de la langue commune à Dolmenwood.
+- **Vieux Woldish** : Un ancien dialecte du woldish qui est largement incompréhensible pour les personnes parlant le woldish.
+- **Drunic** : La langue secrète de la mystérieuse secte des Drunes.
+- **Liturgique** : La langue sacrée de l'Église du seul vrai Dieu.
+- **Sylvain** : La langue commune des fées et des êtres féeriques de Dolmenwood. Les mortels qui la parlent ont invariablement l'air d'idiots.
+- **Haut-Elfe** : La langue de la noblesse féerique. Totalement insaisissable par les mortels.
+- **La langue immortelle de la Féerie** : Une langue ancienne et déformant la réalité, connue uniquement des plus anciennes et des plus terribles fées.
+
+## À l'extérieur du tertre
+
+### Événements aléatoires (1 chance sur 6 tous les deux tours)
+1. Un PJ aperçoit soudain une **chouette fantomatique aux yeux violets** qui le regarde depuis une haute branche. **Sauvegarde contre les sorts** ou évanouissement pendant 1d6 tours.
+2. 1d4 marchands gobelins ivres et munis de lanternes sortent prudemment d'une trappe située dans le sol de la forêt. Ils sont entrés dans le Bois de Dolmenwood depuis la Féerie, à la recherche de fruits de la nuit rares. (Voir ***Gobelin de Dolmenwood, p20***).
+3. Une rafale de vent fouette les branches des arbres avec frénésie. Les PJ qui se trouvent près des arbres doivent effectuer une **sauvegarde contre la paralysie** ou être touchés pour 1 point de dégâts. Les feux vacillent et peuvent s'éteindre : torches : 4 chances sur 6, lanternes : 2 chances sur 6.
+4. Un énorme crapaud verruqueux s'approche, regarde les PJ d'un air perplexe et prononce un seul mot en croassant : "Trahison".
+
+### 1. Arrivée au tumulus
+
+#### Forêt humide
+**Ronces** ( enfouies à moitié dans les chemins).
+**Arbres tordus** (semblent se refermer sur les PJ qui passent, bloquant leur sortie).
+
+#### Le tumulus se profile à l'horizon
+**Colline à sommet plat** (de toute évidence artificielle).
+
+#### Atmosphère
+**Bruit de métal** (irrégulier, provenant de la zone 2).
+
+![L'énorme crapaud verruqueux](img/img04.jpg)
+
+### 2. Les Pierres de Whything
+
+#### Cercle de pierres
+
+**Gravés de runes** (marques surnaturelles qui reflètent la lumière de la lune). **Mousseux** (vêtus de barbes de vieillards pendantes).
+\- **Les runes** : Écriture magique qui (si elle est déchiffrée) semble avoir une certaine fonction dans les rituels d'invocation.
+\- **Nettoyage de la mousse** : Sculpté à la base de chaque pierre, des images de figures féeriques glacées gémissant et se tordant, comme si elles étaient tourmentées.
+
+#### Squelette ensorcelé d'un cerf 
+
+**Couché au milieu des pierres** (s'agite de façon erratique). **Couvert de limon** (vert vif, rougeoyant,
+s'évaporant). **Brume verte** (nuage persistant de bave qui s'évapore).
+- **Respirer la brume** : Acre. Fait tourner la tête.
+
+#### Les Drunes
+Les Drunes sont une secte de sorciers qui gardent jalousement les cercles de pierres et les alignements des sites de Dolmenwood. Les villageois sont terrifiés par leurs activités occultes - y compris les enlèvements et les rumeurs de sacrifices humains - et craignent de prononcer leur nom. Mieux vaut ne pas se mêler d'eux.
+
+#### 13 hiboux de fer
+**Suspendues aux arbres** (ailes déployées, claquant dans la brise). **Rouillées** (striées de pluie). **Yeux en forme de pentagramme** (gravés).
+- **Toucher** : Un frisson s'empare du personnage.
+- **Originaires de Dolmenwood** : Ils reconnaissent les hiboux comme symbole des Drunes.
+
+![Hiboux de fer](img/img05.jpg)
+### 3. Entrée de la tombe
+#### Porte
+**Dalle de granit** (scelle le monticule).
+**Envahie par la végétation** (couverte de lichen et de roses sauvages odorantes).
+- **Déplacement de la dalle** : Nécessite un bonus cumulé de FOR d'au moins 4.
+- **Briser la dalle** : Prend 6 tours. Les bonus FOR cumulés réduisent ce temps. (Minimum 2 tours.)
+#### Escalier dans le tertre
+**Descente de 6 mètres** (dans le sol). **Poussiéreux** (recouvert de siècles de poussière non perturbée). **Silence de mort** (troublé par les pas des PJ). **Odeur humide** (humide et moisie).
+- **Si on l'examine** : On découvre des éraflures. On dirait que quelque chose de lourd a été traîné dans les escaliers (il y a longtemps).
+### 4. Trou de ver
+#### Un trou dans le sol
+**Largeur de 60 cm** (à peine). **Au bord du tertre** (s'enfonce dans la terre).
+- **Éclairage du trou** : Dévoile le trou de 5 m à descendre vers une chambre (zone 10).
+- **Faire du bruit** : Attire les lombrics qui se cachent à l'intérieur (voir zone 10).
+- **Ramper vers le bas** : Dérange les langues de vers qui se cachent à l'intérieur (voir zone 10).
+Après 5 m, le trou émerge dans la zone 10.
+

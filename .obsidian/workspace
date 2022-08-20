@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "94705660898af44f",
+    "type": "split",
+    "children": [
+      {
+        "id": "033d5a648ae41cb9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "aventures/winters_daughter/winters_daughter_original.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd69e63c4f508ee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8aa4b06c1ba3a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43aaaa997ffd5627",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0655aa3f15884f4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a31252dacab2cb72",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ae234083d342ea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "40289b4dee86d76a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aeaac067c5d6bb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "aventures/winters_daughter/winters_daughter_original.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "543ebff68783936c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "aventures/winters_daughter/winters_daughter_original.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60445cfb8b9aec53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a723a610e3809e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "aventures/winters_daughter/winters_daughter_original.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "033d5a648ae41cb9",
+  "lastOpenFiles": []
+}
