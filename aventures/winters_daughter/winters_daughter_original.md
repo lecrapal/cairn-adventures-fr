@@ -359,3 +359,54 @@ Une **belle jeune fille** (cheveux et robe longs et flottants, une étoile sur l
 ![Objets de culte](img/img07.jpg)
 
 ### 8. Crypte familiale
+#### 2 Squelettes flottants
+**Dansent** (bras dessus bras dessous, valsent lentement dans les airs au-dessus de la crevasse).  
+**Gluant et avec moisissure** (couverts de **vase vaporeuse**). **Bijoux** (l'un porte un collier de perles, l'autre un médaillon en or, d'une valeur de 500po chacun).  
+- **Réaction** : Accueillent les étrangers pour qu'ils se joignent à la danse. Attaquent avec véhémence si l'un des coffres est touché.  
+- **Langue** : Peut parler le woldish ancien (c'est-à-dire le commun et non le vieux woldish) dans un chuchotement lointain.  
+
+#### Squelettes flottants
+CA 8 [11], HD 2 (pv 8, 10), Att 1 × griffes (1d4), THAC0 18 [+1], MV 30m (10m) en vol, 
+SV D12 W13 P14 B15 S16 (2), ML 12, AL Neutre, XP 20
+- **Mort-vivant** : Insensible aux charmes et au contrôle mental.
+- **Touché en mêlée** : Toute arme qui touche se retrouve en apesanteur pendant un instant (-1 au jet d'attaque au prochain round).
+
+#### Crevasse
+**Profondeur indéterminée** (à première vue). **Plaques de vase** (transparentes, s'écoulant d'une fissure capillaire dans le plafond au-dessus. Voir la vapeur vaseuse).  
+- **Regarder en bas** : Les PJ qui regardent dans la crevasse aperçoivent une lumière scintillante en dessous, comme la lumière du soleil qui se reflète sur la neige.  
+- **Pénétrer**  : Les personnes ou les objets qui descendent à plus de 5 mètres dans la crevasse dérivent du ciel, comme des flocons de neige, en Féerie (zone 15). Bien que la chute semble longue, elle est inoffensive.  
+
+#### Coffres en pierre
+**A et B sont ouverts** (les couvercles sont écartés).
+**Plaques en laiton terni** (au pied).
+
+#### Plaques en laiton des coffres
+**Portraits** (gravés). **Noms** (avec une relation avec Sir Chyde).
+- A : Lady Amaranda (mère) : Grande, élégante, ressemblant à un bâton, grand nez, tenant un livre.
+- B : Lord Brigforwith (père) : Trapu, tête ronde, grosse barbe.
+- C : Brandywith le Bon (frère aîné) : Avec des lunettes, la tête inclinée, appuyé sur un bâton.
+- D : Brigford le Sage (frère cadet) : Cotte de mailles, chien de chasse à ses côtés, arc à la main.
+- E : Emaline la Chaste (sœur) : Petite, voile de deuil, berçant un chat.
+
+#### Dans les coffres
+- A, B: Empty.
+- C: A skeleton with an ash staff.
+- D: A skeleton dressed in rusted mail.
+- E: Two skeletons: one human, one feline.
+
+#### La vase vaporeuse
+**Des couches de vase** (transparentes). **S'écoule dans la crevasse** (d'une fissure infime dans le plafond). **Recouvre les squelettes** (leur repos éternel a été perturbé par la vase).
+- **Toucher avec un objet** : L'objet passe en apesanteur pendant un instant.
+- **Toucher avec la peau** : La vase se répand sur tout le corps du PJ en un instant, l'enrobant d'une fine couche. Le PJ devient plus léger que l'air et s'élève jusqu'au plafond. Ce phénomène est permanent, à moins que la vase ne soit retirée (par exemple, en *dissipant la magie*).
+
+### 9. Chapelle de St Sedge
+#### Bancs en bois
+**Décomposition** (avec l'âge, autrefois solidement construit).
+
+#### Autel en pierre
+**Statue de St Sedge** (un saint croisé tenant en l'air une épaisse bougie rouge). **Cire séchée** (rouge, a coulé le long de la statue sur l'autel). **Tissu de velours** (en train de se désagréger).
+- **Allumer la bougie** : Le vent s'engouffre. Hennissements lointains et cris de bataille victorieux.
+
+#### Tapisserie en lambeaux
+Les portes du paradis (Sir Chyde et St Sedge se rencontrant dans la mort).
+- **Caché derrière** : Une porte en bois, verrouillée et gonflée d'humidité.
