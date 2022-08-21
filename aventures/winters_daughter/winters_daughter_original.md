@@ -276,6 +276,7 @@ Les Drunes sont une secte de sorciers qui gardent jalousement les cercles de pie
 **Envahie par la végétation** (couverte de lichen et de roses sauvages odorantes).
 - **Déplacement de la dalle** : Nécessite un bonus cumulé de FOR d'au moins 4.
 - **Briser la dalle** : Prend 6 tours. Les bonus FOR cumulés réduisent ce temps. (Minimum 2 tours.)
+
 #### Escalier dans le tertre
 **Descente de 6 mètres** (dans le sol). **Poussiéreux** (recouvert de siècles de poussière non perturbée). **Silence de mort** (troublé par les pas des PJ). **Odeur humide** (humide et moisie).
 - **Si on l'examine** : On découvre des éraflures. On dirait que quelque chose de lourd a été traîné dans les escaliers (il y a longtemps).
@@ -284,6 +285,77 @@ Les Drunes sont une secte de sorciers qui gardent jalousement les cercles de pie
 **Largeur de 60 cm** (à peine). **Au bord du tertre** (s'enfonce dans la terre).
 - **Éclairage du trou** : Dévoile le trou de 5 m à descendre vers une chambre (zone 10).
 - **Faire du bruit** : Attire les lombrics qui se cachent à l'intérieur (voir zone 10).
-- **Ramper vers le bas** : Dérange les langues de vers qui se cachent à l'intérieur (voir zone 10).
+- **Ramper vers le bas** : Dérange les langues-de-ver qui se cachent à l'intérieur (voir zone 10).
 Après 5 m, le trou émerge dans la zone 10.
 
+#### Traces de bave
+**Gluant** (comme la graisse de pétrole). **Opalescent** ( en grande partie transparent).  
+- **Pistage** : Les pistes partent du trou dans les bois et en reviennent. Les personnages doués pour le pistage peuvent détecter les traces de trois créatures ressemblant à des limaces ou des vers.  
+- **Toucher** : Une légère acidité peut être détectée, si la bave est touchée par de la chair nue. (Ce n'est pas suffisant pour causer des dommages).  
+
+![Aventuriers](img/img06.jpg)
+
+## Le tertre funéraire
+### Événements aléatoires (1 chance sur 6 tous les deux tours)
+1. La vision d'une belle femme, toute de blanc vêtue, avec une étoile sur le front. Elle apparaît dans le vide et dit "L'anneau... L'anneau détient la clé... Mon salut éternel", avant de disparaître dans la brume.  
+2. Le son des chiens qui aboient, résonnant dans la crypte.  
+3. Les 2 squelettes dansants de la zone 8, valsant dans les airs lors d'une visite de la tombe.  
+4. 1d3 langues-de-ver qui percent les murs ou le plafond, affamées de chair vivante. (Voir les langues-de-ver, p15).  
+  
+### 5. Salle des gardiens
+#### Atmosphère
+**Moisi** (air humide, étouffant). **Humide** (plafond et murs).
+
+#### 4 objets de culte
+**Debout sur des socles** (dans les coins de la pièce). **Moisis** (couvert de pelage couleur moutarde).
+- **Objets** : Tous mesurent environ 30 cm. Un crucifix en argent (200 po), une statue en bois d'un chérubin, un livre saint, une énorme bougie.
+- **Réaction** : Si un personnage non-loyal met les pieds dans la pièce, les objets flottent dans l'air et attaquent.
+
+#### Double portes
+**Pierre lourde** (traces d'humidité).
+**Inscription** ("Le Très Cher").
+
+#### Sol poussiéreux
+- Si elle est **perturbée** : Le mouvement dans la pièce révèle les couleurs sous la poussière.
+- Si elle est **nettoyée** : Une mosaïque est révélée, ainsi que des rayures sur le sol.
+- **La mosaïque** : elle représente Sir Chyde sur un cheval blanc, transperçant de son épée le cœur d'un chevalier féerique. Une inscription en vieux woldish dit : "Ici repose le noble Sir Chyde, tueur du Froid, défenseur du Roi". Les locuteurs du woldish moderne peuvent reconnaître le nom et les mots pour "Froid" et "Roi".
+- **Les éraflures** : On dirait que quelque chose de lourd a été traîné depuis la zone 7 (il y a longtemps).
+
+#### Objets religieux
+CA 5 [14], HD 1 (pv 3, 3, 4, 5), 
+Att 1 × choc (1d4), THAC0 19 [0], MV 30m (10m) en vol, 
+SV D12 W13 P14 B15 S16 (1), ML 12, AL Loyal, XP 10
+- **Grondements** : Lorsqu'ils sont animés, les objets parlent d'un ton strident et moralisateur, réprimandant les PJ pour leurs méfaits (y compris l'entrée dans la tombe).
+- **Lorsqu'ils sont détruits** : Un nuage de spores de moisissure éclate. Toute personne en mêlée : sauvegarde contre le poison ou subit 1d2 dégâts et s'étouffe pendant 1 round (ne peut pas agir).
+
+### 6. Statue aux yeux bandés
+#### Statue en marbre blanc
+Une **belle jeune fille** (cheveux et robe longs et flottants, une étoile sur le front). Implorant **le silence** (la statue est posée face à l'escalier, le doigt levé sur ses lèvres). **Les yeux bandés** (la tête de la statue est entourée d'un tissu noir qui lui cache les yeux). **Socle rond** (également en marbre, 1 m de large et 30 cm de haut).
+- **Retirer le bandeau** : L'intérieur du tissu est brodé de crucifix dorés.
+- 
+#### Escalier menant à la zone 14
+**Pristine** (pierre finement taillée, exempte de poussière).
+**Arche en forme de branche d'arbre** (pierre taillée en forme d'arbre entrelacé, en haut de l'escalier).
+- **Éclairage des escaliers** : Révèle le chatoiement des reflets de l'eau.
+
+### 7. Miroir de gel
+#### Miroir sur toute la longueur
+**Cadre en argent** (magnifiquement ouvragé, gravé de crucifix et de licornes en train de jouer). **Accroché au mur** (derrière le socle de la statue).
+- **Passer devant** : Sauvegarde contre la paralysie ou être pétrifié.
+- **Couvrir le miroir** : Contourne l'effet de congélation.
+- **Valeur** : 1 000 po.
+- **Retirer du caveau** : Ses propriétés magiques s'estompent au bout d'un mois.
+- **Décongélation des personnages** : eau bénite, guérison des blessures légères ou lumière du soleil.
+
+#### Socle de statue vide
+**Marbre blanc** (rond, 1 m de diamètre, 30 m de haut).
+**Éraflures sur le sol** (comme si une statue lourde avait été trainée, vers la zone 5).
+
+#### Escalier menant à la zone 14
+**Pristine** (pierre finement taillée, exempte de poussière).
+**Arche en forme de branche d'arbre** (pierre taillée en forme d'arbre entrelacé, en haut de l'escalier).
+- **Éclairage des escaliers** : Révèle le chatoiement des reflets de l'eau.
+
+![Objets de culte](img/img07.jpg)
+
+### 8. Crypte familiale
