@@ -322,9 +322,9 @@ Après 5 m, le trou émerge dans la zone 10.
 - **Les éraflures** : On dirait que quelque chose de lourd a été traîné depuis la zone 7 (il y a longtemps).
 
 #### Objets religieux
-CA 5 [14], HD 1 (pv 3, 3, 4, 5), 
-Att 1 × choc (1d4), THAC0 19 [0], MV 30m (10m) en vol, 
-SV D12 W13 P14 B15 S16 (1), ML 12, AL Loyal, XP 10
+**CA** 5 [14], **HD** 1 (pv 3, 3, 4, 5), 
+**Att** 1 × choc (1d4), **THAC0** 19 [0], **MV** 30m (10m) en vol, 
+**SV** D12 W13 P14 B15 S16 (1), **ML** 12, **AL** Loyal, **XP** 10
 - **Grondements** : Lorsqu'ils sont animés, les objets parlent d'un ton strident et moralisateur, réprimandant les PJ pour leurs méfaits (y compris l'entrée dans la tombe).
 - **Lorsqu'ils sont détruits** : Un nuage de spores de moisissure éclate. Toute personne en mêlée : sauvegarde contre le poison ou subit 1d2 dégâts et s'étouffe pendant 1 round (ne peut pas agir).
 
@@ -366,8 +366,8 @@ Une **belle jeune fille** (cheveux et robe longs et flottants, une étoile sur l
 - **Langue** : Peut parler le woldish ancien (c'est-à-dire le commun et non le vieux woldish) dans un chuchotement lointain.  
 
 #### Squelettes flottants
-CA 8 [11], HD 2 (pv 8, 10), Att 1 × griffes (1d4), THAC0 18 [+1], MV 30m (10m) en vol, 
-SV D12 W13 P14 B15 S16 (2), ML 12, AL Neutre, XP 20
+**CA** 8 [11], **HD** 2 (pv 8, 10), **Att** 1 × griffes (1d4), **THAC0** 18 [+1], **MV** 30m (10m) en vol, 
+**SV** D12 W13 P14 B15 S16 (2), **ML** 12, **AL** Neutre, **XP** 20
 - **Mort-vivant** : Insensible aux charmes et au contrôle mental.
 - **Touché en mêlée** : Toute arme qui touche se retrouve en apesanteur pendant un instant (-1 au jet d'attaque au prochain round).
 
@@ -389,10 +389,10 @@ SV D12 W13 P14 B15 S16 (2), ML 12, AL Neutre, XP 20
 - E : Emaline la Chaste (sœur) : Petite, voile de deuil, berçant un chat.
 
 #### Dans les coffres
-- A, B: Empty.
-- C: A skeleton with an ash staff.
-- D: A skeleton dressed in rusted mail.
-- E: Two skeletons: one human, one feline.
+- A, B : Vide.
+- C : Un squelette avec un bâton en frêne.
+- D : Un squelette vêtu d'une cotte de mailles rouillées.
+- E : Deux squelettes : un humain, un félin.
 
 #### La vase vaporeuse
 **Des couches de vase** (transparentes). **S'écoule dans la crevasse** (d'une fissure infime dans le plafond). **Recouvre les squelettes** (leur repos éternel a été perturbé par la vase).
@@ -410,3 +410,35 @@ SV D12 W13 P14 B15 S16 (2), ML 12, AL Neutre, XP 20
 #### Tapisserie en lambeaux
 Les portes du paradis (Sir Chyde et St Sedge se rencontrant dans la mort).
 - **Caché derrière** : Une porte en bois, verrouillée et gonflée d'humidité.
+
+### 10. Quartier abandonné des prêtres
+#### Porte
+**Bois gonflé** (par l'humidité). **Verrouillée**.
+
+#### Mur effondré
+**Décombres** (empilés dans le coin). **Terre noire** (derrière la maçonnerie effondrée). **Tunnel étroit** (60 cm de large, creusé vers le haut).
+- **Dans le tunnel** : 3 langues-de-ver s'y cachent.
+- **Ramper vers le haut** : Conduit à la zone 4.
+
+#### 3 Langues-de-ver
+**Vers qui se tortillent, en forme de langue** (rose foncé, bosselés). **1 mètre de long** (épaisseur de la cuisse). **Bouche cerclée de dents** (comme les lamproies).
+**Aveugle** (attaque par le goût). **A l'affût** (tunnel de la paroi effondrée).
+- **Réaction** : Perturbées par le bruit dans la pièce. Attaque vorace.
+
+#### Langues-de-ver
+**CA** 7 [12], **HD** 1+1* (pv 3, 4, 5), **Att** 1× morsure (1d4 + acide), **THAC0** 18 [+1],
+**MV** 36m (12m), **SV** D12 W13 P14 B15 S16 (1), **ML** 7, **AL** Neutre, **XP** 19
+- **Acide** : Provoque 1 dégât par round jusqu'à ce qu'il soit enlevé (par exemple avec de l'eau).
+
+#### Table d'écriture moisie
+**Bois pourri** (sculpté d'anges).
+- **Tiroir verrouillé** : Facile à ouvrir par effraction.
+- **A l'intérieur du tiroir** : Un vieux livre couvert de moisissures - des pages collées ensemble par l'humidité, indéchiffrables.
+- **A l'intérieur de la couverture du livre** : Une feuille de cuivre, sur laquelle est inscrit un poème pastoral sur Sir Chyde chassant avec ses chiens préférés.
+L'un des chiens est nommé : Flaegr.
+
+#### Une dalle amovible
+- **Localisation** : Une recherche de portes secrètes ou de pièges permettra de le trouver.
+- **Dessous** : Un petit espace contenant une boîte métallique verrouillée.
+- **Serrure piégée** : Avec une aiguille empoisonnée : sauver contre le poison ou subir 1d6 dégâts et tomber inconscient pendant 1d6 tours.
+- **A l'intérieur de la boîte** : Un crucifix en argent (50 po), un parchemin clérical d'immobilisation, un livre de prières estampillé de feuilles d'or (d'une valeur de 500 po), une boîte de 20 gaufres sacrées - conservées après toutes ces années ! (Elles sont magiques - chacune guérit 1 pv).
