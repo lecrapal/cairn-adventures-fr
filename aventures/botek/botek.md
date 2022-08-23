@@ -107,3 +107,7 @@ Le tunnel de la salle 9 se termine à l'intérieur de ce grand chêne. Un trou d
 **Roi des Elfes** 6 PV, 2 Armure, 11 FOR, 13 DEX, 3 VOL, grande épée en bois blanc (d10)
 
 - Peut se téléporter dans un rayon de 5 mètres.
+
+# Carte
+
+![Carte Inkarnate](images/Botek.jpg)
