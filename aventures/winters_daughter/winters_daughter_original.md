@@ -442,3 +442,27 @@ L'un des chiens est nommé : Flaegr.
 - **Dessous** : Un petit espace contenant une boîte métallique verrouillée.
 - **Serrure piégée** : Avec une aiguille empoisonnée : sauver contre le poison ou subir 1d6 dégâts et tomber inconscient pendant 1d6 tours.
 - **A l'intérieur de la boîte** : Un crucifix en argent (50 po), un parchemin clérical d'immobilisation, un livre de prières estampillé de feuilles d'or (d'une valeur de 500 po), une boîte de 20 gaufres sacrées - conservées après toutes ces années ! (Elles sont magiques - chacune guérit 1 pv).
+
+### 11. Statues armées
+#### 7 Statues de fantassins
+**Pierre sombre** (lisse et finement sculptée). 
+**Vraies armes** (dans leurs mains - voir ci-dessous).
+- **Masse d'armes** : Avec une poignée en spirale.
+- **Étoile du matin** : Avec des pointes de 5 cm de long
+- **Hache de combat** : Gravé avec une tête de cheval.
+- **Marteau de guerre** : Tête en forme de sanglier.
+- **Epée longue** : Avec des rainures ondulées de sang.  
+L'épée est enchantée (de fabrication féerique) :  
++2 aux coups et aux dégâts. Elle porte un charme qui affecte les mortels qui la manient, les contraignant à attaquer le plus grand ennemi dans la bataille.
+- **Hallebarde** : Avec un fanion moisi.
+- **Lance** : Avec une lame dentelée.
+
+#### Murs recouverts de moisissures
+**Jaune et violet** (duvet intense).
+- **Déranger la moisissure** : soulève un nuage de spores. Toutes les personnes dans un rayon de 3 mètres doivent sauver contre le poison ou subir 1d4 dégâts et et être frappées par une violente toux et étouffement pendant 1 tour.
+
+#### La fresque effacée de la bataille
+**Sir Chyde** (à cheval, au combat). **Sa main droite** (levée, masquée par la moisissure).
+**Chiens de chasse** (deux chiens de chasse à ses côtés, partiellement cachés par la moisissure). **Armée de fées** (rangée face au chevalier).
+- **La main du chevalier** : Si la moisissure est nettoyée (voir ci-dessus), les PJ voient une épée longue avec des rainures de sang ondulées, entourée d'une lueur blanche.
+- **Les chiens de chasse** : Si la moisissure est nettoyée (voir ci-dessus), le nom d'un des chiens est révélé, inscrit sur son collier (Chedr).
